@@ -1,5 +1,5 @@
 # elishu
-**One-million-years ago, in the Andromeda Galaxy, a bright-rather small red star named, "Elishu" was formed. A rocky, purplish colored temperate marine terra planet was birthed, while also birthing a race named Elishians. Mega-annum has passed, and the Elishians now co-exist with the humans of Terra.**
+**One-million-years ago, in the Andromeda Galaxy, a bright-rather small red star named, "Murak" was formed. A rocky, purplish colored temperate marine terra planet named Elishu was birthed, while also birthing a race named Elishians. Mega-annum has passed, and the Elishians now co-exist with the humans of Terra.**
 
 
 current platforms: Roblox(for the starting project to decide where to go and what to do in future), Linux(for terminal games and specials), anything that can use a CPU if its writing. i will not discriminate on your OS, also. dont worry ill take the time to make stuff work on windows/mac if its a terminal game when i gain the time.
